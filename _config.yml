@@ -1,6 +1,9 @@
 site_name: Deployment Automation
 theme:
   name: material
+palette:
+  scheme: default
+  primary: black  
 lsi: false
 safe: true
 source: /
