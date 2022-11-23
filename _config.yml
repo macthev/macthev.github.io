@@ -13,8 +13,6 @@ features:
   - content.code.annotate
 nav:
   - Home: index.md
-  - Overview:
-    - Overview/index.md
 theme:
   name: material
 palette:
